@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Git & Hostinger..!";
+echo "Hello Git & Hostinger...!";
 
 ?>
